@@ -1,0 +1,35 @@
+.Re2Classify {
+    position: absolute;
+    top: 32%;
+    left:20%;
+    color:#0e3c45;
+    border: 2px groove #0e3c45;
+    border-radius: 10px;
+    width:50%;
+    height: fit-content;
+    padding-bottom: 2%;
+    padding-top:4%;
+    padding-left: 4%;
+    padding-right: 4%;
+    background-color: #EFEFEF;
+    align-content: center;
+}
+
+
+
+.RE {
+    width: 100%;
+    height: fit-content;
+    border: 1px groove #0e3c45;
+    position: relative;
+    align-self: start;   
+    margin-top: 5%;
+}
+
+.ButtonLabels {
+    position: relative;
+    width:fit-content;
+    height: fit-content;
+    top:100%;
+    left:83%;
+}
